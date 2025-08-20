@@ -1,2 +1,29 @@
-students.json
-gson-2.10.1.jar
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files
+*.jar
+
+# Exclude gson jar only if using Maven/Gradle for dependency management
+# Otherwise, remove this line if you want gson-2.10.1.jar in repo
+gson-*.jar
+
+# IDE specific files
+.vscode/
+.idea/
+*.iml
+*.project
+*.classpath
+
+# OS generated files
+.DS_Store
+Thumbs.db
