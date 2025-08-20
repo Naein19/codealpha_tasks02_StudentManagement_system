@@ -23,13 +23,13 @@ This project demonstrates **Object-Oriented Programming (OOP)** concepts such as
 
 ## 📂 Project Structure
 Code_Alpha_2.1/
-│── App.java # Main entry point of the application
-│── Grade.java # Class for managing student grades
-│── GradeTracker.java # Handles multiple students and their grades
-│── Student.java # Student details (name, ID, etc.)
-│── students.json # Data file storing student information
-│── gson-2.10.1.jar # External library for JSON
-│── README.md # Project documentation
+-│── App.java # Main entry point of the application
+-│── Grade.java # Class for managing student grades
+-│── GradeTracker.java # Handles multiple students and their grades
+-│── Student.java # Student details (name, ID, etc.)
+-│── students.json # Data file storing student information
+-│── gson-2.10.1.jar # External library for JSON
+-│── README.md # Project documentation
 
 
 ---
